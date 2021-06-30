@@ -1,4 +1,4 @@
 # Code-Wars-Repository
 
 
-# ![WebApp](logo.png)
+# ![WebApp](https://github.com/methev/Code-Wars-Repository/blob/main/logo.PNG)
