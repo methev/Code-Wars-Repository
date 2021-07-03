@@ -4,6 +4,8 @@
   Here are Code Wars solutions made by Methev.
 </h1>
 
+---
+
 
 
 
