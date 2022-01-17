@@ -1,0 +1,16 @@
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.csprojAssemblyReference.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.AssemblyInfoInputs.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.AssemblyInfo.cs
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.csproj.CoreCompileInputs.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\KATA6Reflection2Givemeallmethods.exe
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\KATA6Reflection2Givemeallmethods.deps.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\KATA6Reflection2Givemeallmethods.runtimeconfig.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\KATA6Reflection2Givemeallmethods.runtimeconfig.dev.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\KATA6Reflection2Givemeallmethods.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\ref\KATA6Reflection2Givemeallmethods.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\bin\Debug\net5.0\KATA6Reflection2Givemeallmethods.pdb
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\ref\KATA6Reflection2Givemeallmethods.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.pdb
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_6\Reflection #2 - Give me all methods\obj\Debug\net5.0\KATA6Reflection2Givemeallmethods.genruntimeconfig.cache

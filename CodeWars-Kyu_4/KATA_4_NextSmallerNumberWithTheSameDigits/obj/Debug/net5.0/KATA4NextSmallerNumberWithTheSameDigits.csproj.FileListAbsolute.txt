@@ -1,0 +1,16 @@
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.exe
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.deps.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.runtimeconfig.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.runtimeconfig.dev.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\ref\KATA4NextSmallerNumberWithTheSameDigits.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\bin\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.pdb
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.csprojAssemblyReference.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.AssemblyInfoInputs.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.AssemblyInfo.cs
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.csproj.CoreCompileInputs.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\ref\KATA4NextSmallerNumberWithTheSameDigits.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.pdb
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_NextSmallerNumberWithTheSameDigits\obj\Debug\net5.0\KATA4NextSmallerNumberWithTheSameDigits.genruntimeconfig.cache

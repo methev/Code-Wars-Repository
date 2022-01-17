@@ -1,0 +1,177 @@
+using System.ComponentModel;
+using System.Collections.Generic;
+using System.Linq;
+using System;
+using System.Collections;
+using System.Diagnostics;
+
+namespace KATA4NextSmallerNumberWithTheSameDigits
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            long test1 = 21;
+            long out1;
+
+            Stopwatch stopWatch = new Stopwatch();
+            stopWatch.Start();
+
+            out1 = Kata.NextSmaller(test1);
+
+            stopWatch.Stop();
+
+            // Get the elapsed time as a TimeSpan value.
+            TimeSpan ts = stopWatch.Elapsed;
+
+            // Format and display the TimeSpan value.
+            string elapsedTime = String.Format("{0:00}:{1:00}:{2:00}.{3:00}",
+            ts.Hours, ts.Minutes, ts.Seconds,
+            ts.Milliseconds / 10);
+            Console.WriteLine("RunTime " + elapsedTime);
+        }
+    }
+
+    public class Kata
+    {
+        public static long NextSmaller(long n)
+        {
+            bool swapAllow = false;
+            bool oneDigitOnly;
+            string nString = n.ToString();
+            long result;
+
+            string nStr = n.ToString();
+
+            //lenght of Char Array
+            int nArrLong = FindNumberOfDigit(n);
+
+            //int number as Char Array
+            char[] nArrChar = new char[nArrLong];
+            nArrChar = nString.ToCharArray();
+
+            int[] nArrInt = new int[nArrLong];
+            nArrInt = Array.ConvertAll(nArrChar, c => (int)Char.GetNumericValue(c));
+
+            //int last = nArrLong -1;
+            Dictionary<int, int> nDiff = new Dictionary<int, int>();
+            int nBuff;
+            int accu1 = 0;
+            int accu2 = 0;
+            int init = 0;
+            long originN = n;
+            long currentN = 0;
+            long lastN = 0;
+            int loops = 0;
+            char[] nArrCharOrigin = new char[nArrLong];
+            Array.Copy(nArrChar, nArrCharOrigin , nArrLong);
+
+            //check if smaller number do not exist
+            oneDigitOnly = NoSmaller(n);
+
+            if (oneDigitOnly == true)
+            {
+                return -1;
+            }
+            else
+            {   //for numbers equal or longer than 2 digits
+                if (nArrLong >= 2)
+                {
+                    permute(nStr, 0, nArrLong-1);
+
+
+                }
+                return -1;
+            }
+        }
+
+        /// <summary>
+        /// Permuitation method
+        /// </summary>
+        /// <param name="str"></param>
+        /// <param name="l">l starting index</param>
+        /// <param name="r">r end index</param>
+        private static void permute(String str, int l, int r)
+        {
+            if (l == r)
+                Console.WriteLine(str);
+            else 
+            {
+                for (int i = l; i <= r; i++) 
+                {
+                    str = swap(str, l, i);
+                    permute(str, l + 1, r);
+                    str = swap(str, l, i);
+                }
+            }
+        }
+
+        public static String swap(String a, int i, int j)
+        {
+            char temp;
+            char[] charArray = a.ToCharArray();
+            temp = charArray[i];
+            charArray[i] = charArray[j];
+            charArray[j] = temp;
+            string s = new string(charArray);
+            return s;
+        }
+
+        public static bool NoSmaller(long n)
+        {
+            int CountDigits = n.ToString().Count();
+            if(CountDigits == 1)
+            {
+                return true;
+            }
+            return false;
+        }
+
+        private static int FindNumberOfDigit(long number)
+        {
+            int count = 0;
+            while (number > 0)
+            {
+                number /= 10;
+                count++;
+            }
+            return count;
+        }
+
+        //public delegate ref TResult RefReturningFunc<TParameter, TResult>(TParameter param);
+
+        /// <summary>
+        /// Swap the values in positions 1 and 2 with each other. 
+        /// </summary>
+        /// <param name="input">Input Array</param>
+        /// <param name="pos1">Position 1 in array.</param>
+        /// <param name="pos2">Position 2 in array.</param>
+        /// <typeparam name="TInput">This is the first generic argument.</typeparam>
+        public static void SwapPositionsInArray<TInput>(ref TInput[] input, int pos1, int pos2)
+        {
+            TInput buff =  input[pos1];
+
+            input[pos1] = input[pos2];
+            input[pos2] = buff;
+        }
+
+        public static int Factorial(int f)
+        {
+        if(f == 0)
+            return 1;
+        else
+            return f * Factorial(f-1); 
+        }
+
+        public static int CombinationWithoutRepetition(int n, int k)
+        {
+            int nFactor = Factorial(n);
+            int kFactor = Factorial(k);
+
+            int result= nFactor / (kFactor * Factorial(n-k));
+            return result;
+
+        }
+    }
+}

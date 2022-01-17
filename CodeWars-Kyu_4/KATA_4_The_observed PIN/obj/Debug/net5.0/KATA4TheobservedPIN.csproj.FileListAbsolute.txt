@@ -1,0 +1,16 @@
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\KATA4TheobservedPIN.exe
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\KATA4TheobservedPIN.deps.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\KATA4TheobservedPIN.runtimeconfig.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\KATA4TheobservedPIN.runtimeconfig.dev.json
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\KATA4TheobservedPIN.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\ref\KATA4TheobservedPIN.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\bin\Debug\net5.0\KATA4TheobservedPIN.pdb
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.csprojAssemblyReference.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.AssemblyInfoInputs.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.AssemblyInfo.cs
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.csproj.CoreCompileInputs.cache
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\ref\KATA4TheobservedPIN.dll
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.pdb
+C:\Users\aj91620\Documents\AJ91620\00_DEUS\GitHub Repo\CodeWars-Kyu_4\KATA_4_The_observed PIN\obj\Debug\net5.0\KATA4TheobservedPIN.genruntimeconfig.cache

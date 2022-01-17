@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "KATA4TheobservedPIN/1.0.0": {
+        "runtime": {
+          "KATA4TheobservedPIN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KATA4TheobservedPIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
